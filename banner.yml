@@ -1,15 +1,9 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: HenryNFTs
+description: "HenryNFTS - Henry's main interest in cryptocurrencies is not getting rich with them, it is learning the technology that makes them possible."
+image: https://i.ibb.co/JKGTqzV/6-Henry.png
 mintAddresses:
-  - 
+  - 9hapMiKfiFhDpxBH21rp6GKCAfNwh9BREnn1VMU4P7dAufbaTps
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/HenryNFTs
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
