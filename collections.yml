@@ -1,3 +1,5 @@
 collections:
 - label: Henry
   data: henry.yml
+- label: Chloe
+  data: chloe.yml
