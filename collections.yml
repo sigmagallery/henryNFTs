@@ -2,6 +2,8 @@ collections:
 - label: Henry
   data: henry.yml
   image: https://gateway.ipfs.io/ipfs/bafkreiadyfngmsxz5pwwhp4wasbxh2kezej3qzqly7o5maozw7ij6jhfwi
+  description: Henry by HenryNFTs
 - label: Chloe
   data: chloe.yml
   image: https://i.ibb.co/8X7p5S0/75-Chloe.png
+  description: Chloe by HenryNFTs
